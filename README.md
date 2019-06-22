@@ -1,2 +1,2 @@
 # ML_coursera
-Assignment's for ML course on coursera
+Assignments for ML course on coursera
